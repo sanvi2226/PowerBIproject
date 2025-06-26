@@ -5,7 +5,7 @@ This dashboard was developed to showcase the daily sales of the company across i
 Using Power BI to model the received MS Excel data files, this dashboard has been created using various 'measures' and data visualization tools. 
 
 
-# Snapshot of the Dashboard
+# Snapshots of the Dashboard
 # PAGE 1
  ![Image](https://github.com/user-attachments/assets/2b773cd1-3868-485e-838a-1fbb02a3c377)
 
